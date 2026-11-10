@@ -1,0 +1,6 @@
+<Bindings>
+	<Binding name="MIMUSICA_VENTANA" header="MIMUSICA">MiMusica_Ventana()</Binding>
+	<Binding name="MIMUSICA_PLAY">MiMusica_PlayParar()</Binding>
+	<Binding name="MIMUSICA_SIGUIENTE">MiMusica_Siguiente()</Binding>
+	<Binding name="MIMUSICA_ANTERIOR">MiMusica_Anterior()</Binding>
+</Bindings>

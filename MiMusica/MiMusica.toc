@@ -1,0 +1,9 @@
+## Interface: 11508
+## Title: MiMusica
+## Notes: Reproductor de tu propia música dentro del juego. Usa /musica
+## Author: Enric
+## Version: 1.0
+## SavedVariables: MiMusicaDB
+
+Canciones.lua
+MiMusica.lua
