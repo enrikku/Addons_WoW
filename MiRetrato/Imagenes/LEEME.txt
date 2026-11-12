@@ -1,0 +1,7 @@
+Pon aqui tus fotos (.png, .jpg...) y ejecuta ConvertirImagen.bat
+(o arrastra la foto encima de ConvertirImagen.bat).
+
+Se crea un .tga con el mismo nombre. En el juego escribe:
+    /retrato imagen nombre
+
+Las imagenes nuevas pueden necesitar reiniciar el juego (no solo /reload).

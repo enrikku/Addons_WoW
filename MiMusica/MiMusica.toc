@@ -1,4 +1,4 @@
-## Interface: 11508
+## Interface: 16001, 120100, 120105, 120107
 ## Title: MiMusica
 ## Notes: Reproductor de tu propia música dentro del juego. Usa /musica
 ## Author: Enric

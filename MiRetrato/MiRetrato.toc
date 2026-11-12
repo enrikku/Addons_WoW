@@ -1,0 +1,8 @@
+## Interface: 16001, 120100, 120105, 120107
+## Title: MiRetrato
+## Notes: Cambia la foto (retrato) de tu personaje junto a la barra de vida. Usa /retrato
+## Author: Enric
+## Version: 1.0
+## SavedVariablesPerCharacter: MiRetratoDB
+
+MiRetrato.lua
