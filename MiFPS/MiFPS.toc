@@ -1,0 +1,8 @@
+## Interface: 16001, 120100, 120105, 120107
+## Title: MiFPS
+## Notes: Muestra los FPS (y la latencia) en tiempo real. Usa /fps
+## Author: Enric
+## Version: 1.0
+## SavedVariables: MiFPSDB
+
+MiFPS.lua
